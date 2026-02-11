@@ -1,0 +1,17 @@
+{
+  "name": "AL-MAHD",
+  "symbol": "ALMAD",
+  "description": "AL-MAHD - A Solana SPL token with 1 billion supply",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/AL-MAHD-metadata/main/AL-MAHDL_jpeg.jpg",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hoodlums453/AL-MAHD-metadata/main/AL-MAHDL_jpeg.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
